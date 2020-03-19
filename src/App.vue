@@ -26,7 +26,7 @@
             Made with
             <v-icon class="red--text">favorite</v-icon>
             by <a class="white--text" href="https://vuetifyjs.com" target="_blank">Vuetify</a>
-            and <a class="white--text" href="https://github.com/rachidsakara" target="_blank">Rachid Sakara</a>
+            and <a class="white--text" href="https://msk.org.au" target="_blank">Musculoskeletal Australia</a>
           </div>
         </v-flex>
       </v-layout>
