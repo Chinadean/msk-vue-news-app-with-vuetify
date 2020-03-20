@@ -1,4 +1,4 @@
-# vue-news-app
+# msk-vue-news-app
 
 > A [beautiful animated news application that is production ready](https://vue-news-app.firebaseapp.com/).  , which was built using one of the most popular JavaScript Framework for building interactive user interfaces Vue.js along with Vuetify, a Vue powered UI library to speed up the Application UI construction.
 
